@@ -1,6 +1,7 @@
 {
     "name": "valorin/cronsync",
     "description": "CronSync is a way to define your artisan command cron schedule within your code (and therefore in version control), by updating the crontab as part of your deploy process.",
+    "license": "MIT",
     "authors": [
         {
             "name": "Stephen Rees-Carter",
