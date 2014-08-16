@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Valorin\\CronSync\\": "src/"
+            "Valorin\\CronSync\\": "src/CronSync/"
         }
     },
     "minimum-stability": "stable"
