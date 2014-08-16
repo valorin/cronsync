@@ -1,0 +1,20 @@
+{
+    "name": "valorin/cronsync",
+    "description": "CronSync is a way to define your artisan command cron schedule within your code (and therefore in version control), by updating the crontab as part of your deploy process.",
+    "authors": [
+        {
+            "name": "Stephen Rees-Carter",
+            "email": "stephen@rees-carter.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Valorin\\CronSync\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
