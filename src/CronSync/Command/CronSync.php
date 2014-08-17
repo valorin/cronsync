@@ -12,7 +12,7 @@ use Valorin\CronSync\CronCommandInterface;
 class CronSync extends Command
 {
 	const DIVIDER = '# CronSync for ';
-	const PAD_SCHEDULE = '20';
+	const PAD_SCHEDULE = '19';
 	const LOG_PREFIX = '2>&1 | tee ';
 	const LOG_POSTFIX = '-cron.log';
 
